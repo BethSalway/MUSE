@@ -4,34 +4,30 @@ layout: base
 date: 2025-09-30
 homepage: TRUE
 position: 1
-summary: Technologies & Humanities. Museums: Understanding, Searching, Emerging. Educational methods and environments. 
+summary:  Technology and games in the humanities
 thumbnail: assets/images/Cleve-van_construction-tower-babel.jpg
 ---
-
-This is your Research page. Replace everything below this line with your own content. A research page typically includes an overview of your scholarly interests, descriptions of current and past projects, and any relevant links or media.
-
-The `summary` and `thumbnail` fields in the front matter at the top of this file (between the `---` lines) control the card on your homepage. Update both when you update the page.
 
 ---
 
 ## Research Interests
 
-Write two or three paragraphs describing your research questions, methods, and fields. You don't need to cover everything — aim for something a curious non-specialist can follow. What problem are you working on? Why does it matter? What approaches do you bring to it?
+In recent years museums and history educators have been expanding the way we understand and explain the past with a number of methods, I explore those methods and their applications in different settings. Many of these new methods include the use of new, or emerging, technologies, such as virtual reality and video game technologies. These technologies and unorthodox educational methods hold enormous potential and are fundamentally changing our academic spaces. 
 
 ---
 
 ## Current Projects
 
-### Project Name
+### Interviewing museum and education professionals on new or unorthodox strategies.
 
-A short description of what you're working on right now. Include a link if the project has a public presence. If you have an image — a map, a dataset visualization, a photo from fieldwork — add it here using the `figure` or `figure-wrap` component.
+Reaching out to professionals in a number of fields to ask questions and better understand where the industry is today.
 
-### Project Name
+### Exploring game technology and applications for the humanities.
 
-Another current project. Or delete this section if you have just one.
+Woking to develop educational games and understand the role they can play in teaching the humanities. Video games, playing the past, and more.
 
 ---
 
 ## Past Projects
 
-Completed work you want to highlight. Thesis, dissertations, grants, exhibits — whatever best represents your scholarly record.
+Independent research exploring past uses of virtual reality technologies in the humanities and future applications or possibilities.
